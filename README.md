@@ -1,1 +1,2 @@
 # noSQL__Challenge
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. I have been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles. The magazine editors have also some requested modifications for the database, prior to performing queries and analysis.
